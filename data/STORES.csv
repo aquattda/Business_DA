@@ -1,0 +1,6 @@
+store_code,store_name,city,region,opening_date,store_size_sqm,monthly_rent
+HN01,Chi nhánh Láng Hạ,Hà Nội,North,2023-01-15,120,45000000
+HN02,Chi nhánh Cầu Giấy,Hà Nội,North,2023-06-20,80,30000000
+HCM01,Chi nhánh Nguyễn Huệ,HCM,South,2022-11-10,150,65000000
+HCM02,Chi nhánh Lê Lợi,HCM,South,2024-03-05,100,50000000
+DN01,Chi nhánh Trần Phú,Đà Nẵng,Central,2024-01-20,90,28000000

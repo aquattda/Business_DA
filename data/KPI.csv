@@ -1,0 +1,13 @@
+period,kpi_type,channel,store_code,target_revenue,target_orders,target_new_customers
+2025-Q1,Channel,Online,,50000000,100,40
+2025-Q1,Channel,Offline,,80000000,150,60
+2025-Q1,Store,Online,HN01,15000000,30,12
+2025-Q1,Store,Offline,HN01,12000000,25,10
+2025-Q1,Store,Online,HN02,10000000,20,8
+2025-Q1,Store,Offline,HN02,8000000,15,6
+2025-Q1,Store,Online,HCM01,18000000,35,14
+2025-Q1,Store,Offline,HCM01,25000000,45,18
+2025-Q1,Store,Online,HCM02,7000000,15,6
+2025-Q1,Store,Offline,HCM02,20000000,35,14
+2025-Q1,Store,Online,DN01,10000000,20,8
+2025-Q1,Store,Offline,DN01,15000000,30,12

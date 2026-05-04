@@ -1,0 +1,31 @@
+order_id,order_date,status,channel,store_code,customer_id,quantity,shipping_address,delivery_status
+ORD001,2025-01-15,Completed,Online,HN01,CUS001,2,"123 Láng Hạ, Hà Nội",Delivered
+ORD002,2025-01-16,Processing,Offline,HCM01,CUS002,1,"456 Nguyễn Huệ, HCM",Shipping
+ORD003,2025-01-16,Completed,Online,HN02,CUS003,3,"789 Cầu Giấy, Hà Nội",Delivered
+ORD004,2025-01-17,Cancelled,Online,HN01,CUS001,1,"123 Láng Hạ, Hà Nội",Cancelled
+ORD005,2025-01-18,Completed,Offline,HCM02,CUS004,2,"321 Lê Lợi, HCM",Delivered
+ORD006,2025-01-19,Completed,Online,DN01,CUS005,1,"654 Trần Phú, Đà Nẵng",Delivered
+ORD007,2025-01-20,Processing,Offline,HCM01,CUS002,4,"456 Nguyễn Huệ, HCM",Pending
+ORD008,2025-01-21,Completed,Online,HN01,CUS006,2,"147 Hoàng Quốc Việt, Hà Nội",Delivered
+ORD009,2025-01-22,Completed,Offline,HCM02,CUS007,1,"258 Phan Xích Long, HCM",Delivered
+ORD010,2025-01-23,Completed,Online,HN02,CUS008,3,"369 Trần Duy Hưng, Hà Nội",Delivered
+ORD011,2025-01-24,Processing,Online,DN01,CUS009,1,"741 Lê Duẩn, Đà Nẵng",Shipping
+ORD012,2025-01-25,Completed,Offline,HN01,CUS010,2,"852 Nguyễn Trãi, Hà Nội",Delivered
+ORD013,2025-01-26,Completed,Online,HCM01,CUS011,1,"963 Võ Văn Tần, HCM",Delivered
+ORD014,2025-01-27,Cancelled,Online,HN02,CUS003,2,"789 Cầu Giấy, Hà Nội",Cancelled
+ORD015,2025-01-28,Completed,Offline,HCM02,CUS012,3,"159 Hai Bà Trưng, HCM",Delivered
+ORD016,2025-01-29,Completed,Online,HN01,CUS013,1,"753 Kim Mã, Hà Nội",Delivered
+ORD017,2025-01-30,Processing,Offline,DN01,CUS014,2,"357 Nguyễn Văn Linh, Đà Nẵng",Pending
+ORD018,2025-02-01,Completed,Online,HCM01,CUS015,1,"486 Lý Thường Kiệt, HCM",Delivered
+ORD019,2025-02-02,Completed,Offline,HN02,CUS006,4,"147 Hoàng Quốc Việt, Hà Nội",Delivered
+ORD020,2025-02-03,Completed,Online,HCM02,CUS016,2,"951 Nguyễn Đình Chiểu, HCM",Delivered
+ORD021,2025-02-04,Processing,Online,HN01,CUS017,1,"234 Giảng Võ, Hà Nội",Shipping
+ORD022,2025-02-05,Completed,Offline,HCM01,CUS004,3,"321 Lê Lợi, HCM",Delivered
+ORD023,2025-02-06,Completed,Online,DN01,CUS018,2,"567 Phan Châu Trinh, Đà Nẵng",Delivered
+ORD024,2025-02-07,Cancelled,Offline,HN02,CUS019,1,"678 Tây Sơn, Hà Nội",Cancelled
+ORD025,2025-02-08,Completed,Online,HCM02,CUS020,2,"789 Điện Biên Phủ, HCM",Delivered
+ORD026,2025-02-09,Completed,Offline,HN01,CUS011,1,"963 Võ Văn Tần, HCM",Delivered
+ORD027,2025-02-10,Processing,Online,HCM01,CUS002,3,"456 Nguyễn Huệ, HCM",Shipping
+ORD028,2025-02-11,Completed,Online,DN01,CUS021,2,"345 Hùng Vương, Đà Nẵng",Delivered
+ORD029,2025-02-12,Completed,Offline,HN02,CUS022,1,"876 Láng Hạ, Hà Nội",Delivered
+ORD030,2025-02-13,Completed,Online,HCM02,CUS023,4,"234 Pasteur, HCM",Delivered

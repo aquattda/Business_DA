@@ -1,0 +1,3 @@
+channel_code,channel_name,commission_rate,payment_methods
+Online,Bán hàng online,0.05,"Card,E-wallet,COD"
+Offline,Cửa hàng trực tiếp,0.0,"Cash,Card,E-wallet"
